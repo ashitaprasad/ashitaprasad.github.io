@@ -12,16 +12,16 @@
 .btn-tw-primary {
   --bs-btn-font-weight: 600;
   --bs-btn-color: var(--bs-white);
-  --bs-btn-bg: var(--bd-twitter);
-  --bs-btn-border-color: var(--bd-twitter);
+  --bs-btn-bg: var(--bd-medium);
+  --bs-btn-border-color: var(--bd-medium);
   --bs-btn-border-radius: .5rem;
-  --bs-btn-hover-color: var(--bd-twitter);
+  --bs-btn-hover-color: var(--bd-medium);
   --bs-btn-hover-bg: var(--bs-white);
-  --bs-btn-hover-border-color: var(--bd-twitter);
-  --bs-btn-focus-shadow-rgb: var(--bd-twitter-rgb);
+  --bs-btn-hover-border-color: var(--bd-medium);
+  --bs-btn-focus-shadow-rgb: var(--bd-medium-rgb);
   --bs-btn-active-color: var(--bs-btn-hover-color);
   --bs-btn-active-bg: var(--bs-white);
-  --bs-btn-active-border-color: var(--bd-twitter);
+  --bs-btn-active-border-color: var(--bd-medium);
 }
 
 .btn-lk-primary {
